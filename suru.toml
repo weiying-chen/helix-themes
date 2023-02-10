@@ -73,10 +73,10 @@
 "ui.virtual.whitespace" = { fg = "grey_dim" }
 "ui.virtual.ruler" = { bg = "grey_dim" }
 
-info = { fg = 'green', bg = 'bg2' }
-hint = { fg = 'blue', bg = 'bg2', modifiers = ['bold'] }
-warning = { fg = 'yellow', bg = 'bg2', modifiers = ['bold'] }
-error = { fg = 'red', bg = 'bg2', modifiers = ['bold'] }
+info = { fg = 'green', bg = 'bg0' }
+hint = { fg = 'blue', bg = 'bg0', modifiers = ['bold'] }
+warning = { fg = 'yellow', bg = 'bg0', modifiers = ['bold'] }
+error = { fg = 'red', bg = 'bg0', modifiers = ['bold'] }
 
 "diagnostic.info" = { underline = { style = "curl", color = "green" } }
 "diagnostic.hint" = { underline = { style = "curl", color = "blue" } }
