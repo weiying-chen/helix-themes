@@ -1,6 +1,6 @@
 # Helix Themes
 
-## Motivation
+## Themes
 
 ### Suru Theme
 
