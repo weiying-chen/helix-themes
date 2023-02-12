@@ -4,7 +4,12 @@
 
 ### Suru Theme
 
+Rust:
+
 <img alt="Rust" src="https://github.com/weiying-chen/helix-themes/blob/main/themes/suru/screenshots/rust.png">
+
+TypeScript:
+
 <img alt="TypeScript" src="https://github.com/weiying-chen/helix-themes/blob/main/themes/suru/screenshots/typescript.png">
 
 The theme aims to:
