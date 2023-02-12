@@ -6,8 +6,8 @@
 
 The theme aims to:
 
-- Make it easy to differentiate each token.
-- Avoid using too many colors, as it can become distracting.
+- Make it easy to differentiate each token
+- Avoid using too many colors, as it can become distracting
 - Look good
 
 ## Installation
