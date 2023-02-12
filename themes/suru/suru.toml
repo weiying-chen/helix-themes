@@ -1,5 +1,9 @@
-# Author: Wei-Ying Chen <alexchen.info@gmail.com>
-# Based on the Suru palette from https://snwh.org/suru/guidelines
+### Suru Theme
+## Author: Wei-Ying Chen
+# URL: https://github.com/sainnhe/sonokai
+## Colors palette
+# URL: https://snwh.org/suru/guidelines
+# License: MIT License
 
 "type" = "turquoise"
 "constant" = "purple"
