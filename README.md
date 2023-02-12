@@ -15,4 +15,4 @@ The theme aims to:
 To install the theme, follow these steps:
 
 1. Download the theme.
-2. Move it to your themes directory (e.g., ~/.config/helix/themes).
+2. Move it to your themes directory (e.g., `~/.config/helix/themes`).
