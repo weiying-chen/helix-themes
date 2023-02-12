@@ -4,6 +4,9 @@
 
 ### Suru Theme
 
+<img src="https://github.com/weiying-chen/helix-themes/blob/main/themes/suru/screenshots/rust.png">
+<img src="https://github.com/weiying-chen/helix-themes/blob/main/themes/suru/screenshots/typescript.png">
+
 The theme aims to:
 
 - Make it easy to differentiate each token
