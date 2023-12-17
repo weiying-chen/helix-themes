@@ -1,5 +1,7 @@
 # Helix Themes
 
+A collection of Helix themes
+
 ## Themes
 
 ### Suru Theme
